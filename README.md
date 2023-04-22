@@ -1,16 +1,17 @@
-### Hi there 👋
+## Qui suis-je / Who am I 
+[![mastodon](https://img.shields.io/badge/mastodon--lightgrey?style=social&logo=mastodon)](https://jvm.social/@Lilian_Benoit)
+[![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://twitter.com/Lilian_Benoit)
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://linkedin.com/in/lilianbenoit)
+[![blog](https://img.shields.io/badge/blog--lightgrey?style=social&logo=appveyor)](https://www.lilian-benoit.fr/)
 
-<!--
-**lilian-benoit/lilian-benoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Je travaille actuellement / I’m currently working on 
+* Software architecture
+* Java platform
+* Jakarta platform
+* Spring stack
+* Quarkus
+* Keycloak
+ 
+## 📫 Comment me contacter / How to reach me?
+Using either [Twitter](https://twitter.com/Lilian_Benoit) or [Mastodon](https://jvm.social/@Lilian_Benoit)
