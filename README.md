@@ -8,10 +8,11 @@
 ## 🔭 Je travaille actuellement / I’m currently working on 
 * Software architecture
 * Java platform
-* Jakarta platform
-* Spring stack
-* Quarkus
+* Jakarta platform (Jakarka Rest, Jakarta Persistence, CDI)
+* Spring / Spring Boot
+* Quarkus 
 * Keycloak
  
 ## 📫 Comment me contacter / How to reach me?
-Using either [Twitter](https://twitter.com/Lilian_Benoit) or [Mastodon](https://jvm.social/@Lilian_Benoit)
+ * [Twitter](https://twitter.com/Lilian_Benoit)
+ * [Mastodon](https://jvm.social/@Lilian_Benoit)
