@@ -15,4 +15,5 @@
  
 ## 📫 Comment me contacter / How to reach me?
  * [Twitter](https://twitter.com/Lilian_Benoit)
- * [Mastodon](https://jvm.social/@Lilian_Benoit)
+ * [Mastodon](https://foojay.social/@Lilian_Benoit)
+ * [Bluesky](https://bsky.app/profile/lilian-benoit.bsky.social)
